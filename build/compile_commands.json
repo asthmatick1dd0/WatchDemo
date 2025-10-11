@@ -1,0 +1,8 @@
+[
+{
+  "directory": "C:/C++/WatchDemo/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe   -g -std=gnu++23 -o CMakeFiles\\WatchDemoClient.dir\\main.cpp.obj -c C:\\C++\\WatchDemo\\WatchDemo\\client\\main.cpp",
+  "file": "C:/C++/WatchDemo/WatchDemo/client/main.cpp",
+  "output": "CMakeFiles/WatchDemoClient.dir/main.cpp.obj"
+}
+]

@@ -1,0 +1,3 @@
+C:/C++/WatchDemo/build/CMakeFiles/WatchDemoClient.dir
+C:/C++/WatchDemo/build/CMakeFiles/edit_cache.dir
+C:/C++/WatchDemo/build/CMakeFiles/rebuild_cache.dir

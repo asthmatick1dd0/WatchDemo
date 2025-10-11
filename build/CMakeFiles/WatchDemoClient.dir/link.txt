@@ -1,0 +1,3 @@
+"C:\Program Files\CMake\bin\cmake.exe" -E rm -f CMakeFiles\WatchDemoClient.dir/objects.a
+C:\msys64\ucrt64\bin\ar.exe qc CMakeFiles\WatchDemoClient.dir/objects.a @CMakeFiles\WatchDemoClient.dir\objects1.rsp
+C:\msys64\ucrt64\bin\g++.exe -g -Wl,--whole-archive CMakeFiles\WatchDemoClient.dir/objects.a -Wl,--no-whole-archive -o WatchDemoClient.exe -Wl,--out-implib,libWatchDemoClient.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\WatchDemoClient.dir\linkLibs.rsp
